@@ -1,3 +1,4 @@
+// Time : O(n * log n), Space : O(1).
 package Dynamic_Programming.Babbar.pairs_with_specific_diff;
 import java.util.*;
 public class sorting_approach {
