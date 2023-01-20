@@ -2,7 +2,7 @@
 // Same as "Activity Selection Problem".
 package Dynamic_Programming.Babbar.Max_length_chain;
 import java.util.*;
-public class sorting_approach {
+public class Greedy_approach {
     class Pair {
         int x, y;
         Pair(int a, int b) {
