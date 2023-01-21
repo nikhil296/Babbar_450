@@ -6,7 +6,7 @@ public class sorting_approach {
         if(n == 1) return 0;
         Arrays.sort(arr);
         int ans = 0;
-        // below loop. runs for -> O(n) time only, itws better that dp_tabulation approach.
+        // below loop. runs for -> O(n) time only, its better that dp_tabulation approach.
         for(int i = 0, j = 0; i<n && j<n;) {
             if(i == j) {
                 j++;
